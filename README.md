@@ -15,8 +15,8 @@ This is a React-based User Management Application that integrates with the Reqre
 
 ## Prerequisites
 
-- Node.js (v14 or later)
-- npm (v6 or later)
+- Node.js
+- npm 
 
 ## Technologies Used
 
