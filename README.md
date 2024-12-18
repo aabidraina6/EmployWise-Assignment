@@ -100,7 +100,7 @@ src/
 - React Router for navigation
 
 ## Deployment
-- The project is deployed on Render. [EmployWise User Management App](https://employwise-user-management.onrender.com/)
+- The project is deployed on Render. [EmployWise User Management App](https://employwise-assignment-yang.onrender.com/)
 
 ## Future Improvements
 
